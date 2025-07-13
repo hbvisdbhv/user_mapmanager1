@@ -1,0 +1,16 @@
+authors {
+  display: flex;
+  justify-content: center; /* центрує весь блок */
+  flex-wrap: wrap; /* переносить на новий рядок при нестачі місця */
+  gap: 20px; /* рівномірний відступ між посиланнями */
+}
+
+.authors a {
+  text-decoration: none;
+  color: blue;
+  font-size: 18px;
+}
+
+
+
+
